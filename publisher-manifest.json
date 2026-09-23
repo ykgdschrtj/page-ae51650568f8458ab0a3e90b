@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8e47724ae5b849a6b4228183",
+  "owner": "ykgdschrtj",
+  "repo": "page-ae51650568f8458ab0a3e90b",
+  "title": "光速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ae51650568f8458ab0a3e90b",
+      "a": "光速",
+      "b": "稳定全球clash加速器",
+      "entity": "光速",
+      "brand": "光速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "63e4e3ad2d3201e2e5e22da51722c84b06ff9818a4ca856ee7727479da789ede",
+      "content": {
+        "primary_entity": "光速",
+        "keyword1": "光速",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，光速提供覆盖多个地区的网络加速线路，支持 Clash 等客户端订阅导入，按设备数量和月流量划分基础版、旗舰版与团队版三档套餐。基础版适合单人或少量设备日常使用，旗舰版面向多设备与高清流媒体场景，团队版可满足小型团队共享与高带宽需求，年付方案更省费用。",
+          "AI_HERO_SUBTITLE": "选择光速，畅连全球网络",
+          "AI_HERO_INTRO": "光速是一款面向跨境访问的网络加速服务，支持 Clash 客户端订阅配置。根据设备数量、月流量和线路类型选择基础版、旗舰版或团队版，再按所用客户端完成订阅导入即可使用。",
+          "AI_VISUAL_TITLE": "光速全球加速",
+          "AI_HIGHLIGHT_1": "三档套餐按设备与流量划分",
+          "AI_HIGHLIGHT_2": "支持 Clash 订阅导入使用",
+          "AI_HIGHLIGHT_3": "年付方案更节省费用",
+          "AI_FEATURES_TITLE": "光速加速服务特点",
+          "AI_FEATURES_INTRO": "从设备规模、订阅周期和线路需求出发，挑选更合适的加速方案。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按在线设备数量匹配。",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TEXT_2": "月付与年付均可选，年付仅需月付总价的十个月费用，长期使用更划算。",
+          "AI_FEATURE_TITLE_3": "线路匹配场景",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，团队版提供 VIP 高带宽节点，按需挑选。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应的 Clash 客户端，再导入光速订阅链接完成配置。",
+          "AI_PLANS_TITLE": "光速套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步开始使用光速",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，按顺序操作即可。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TEXT_2": "检查所用手机、电脑或路由器的系统版本，选择可安装的 Clash 客户端。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅链接，保存后选择节点即可连接。",
+          "AI_FAQ_TITLE": "光速常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "光速支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "光速提供订阅链接，可导入 Clash 系列客户端。手机、电脑和路由器上可用的客户端版本不同，配置前先确认系统是否支持所选客户端。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时，较早登录的设备可能会被挤下线。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，年付一次性支付十个月的月付价格。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，权益与月付版本一致。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。流量按自然月重置，若经常提前用完，可升级到更高一档套餐。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版线路有何不同？",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线，适合游戏和实时通话等对延迟敏感的场景。团队版提供 VIP 高带宽节点，并可定制路由，适合多人共享。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "根据设备与流量需求挑选光速套餐，按客户端文档完成订阅配置即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--v2net-h02iv96g.com",
+    "host": "xn--v2net-h02iv96g.com"
+  },
+  "file_hashes": {
+    "index.html": "1cc9b22b1066cc08243384262d4aecc28a41dde4bce66e0ff37e74e5e04103ab",
+    "sitemap.xml": "3354c8da13c4b2e093e94d3a2df041f278b9827fd2f926c11c91196856cca727",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "61739b4208161ec8b972517b770c68bdedf7fb708e3c31a57e83198508b2a579",
+    "robots.txt": "82c26fed5475e5c833f2c24c5b1347f2be373ba6e4dba250e1155e644427bd70",
+    "8062094fd4cd5f0022794841ad352b34.txt": "cb4c1b60d9241739b6e2fe9e213cef693da09a2f028bec25f203739f4f7c655d"
+  },
+  "revision": "a6f2c2f112ba4c609f93a7c40f6c8d80bab7d76987c164467853a2f8e60633ef"
+}
